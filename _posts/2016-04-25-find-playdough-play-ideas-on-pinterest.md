@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Find Playdough play ideas on Pinterest.
-datePublished: '2016-04-25T05:58:45.623Z'
-dateModified: '2016-04-25T05:57:39.132Z'
+datePublished: '2016-04-25T06:01:03.711Z'
+dateModified: '2016-04-25T05:58:50.889Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-find-playdough-play-ideas-on-pinterest.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-find-playdough-play-ideas-on-pinterest.md
-published: true
 url: find-playdough-play-ideas-on-pinterest/index.html
 _type: Article
 
