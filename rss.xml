@@ -4,7 +4,7 @@
         <description><![CDATA[playing with dough]]></description>
         <link>https://thegrid.ai/playdough/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 12:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 12:41:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/playdough/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Plasticine Garden]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/playdough/find-playdough-play-ideas-on-pinterest/index.html</link>
             <guid isPermaLink="false">d94ee69f-bd76-450f-bf6f-cbc5445db001</guid>
             <pubDate>Mon, 25 Apr 2016 12:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://playdoh.hasbro.com/en-au</p>]]></description>
-            <link>https://thegrid.ai/playdough/httpplaydohhasbrocomen-au/index.html</link>
-            <guid isPermaLink="false">5747dca8-3dcc-41e9-a672-03814c41a43d</guid>
-            <pubDate>Mon, 25 Apr 2016 12:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
