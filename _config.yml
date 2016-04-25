@@ -1,0 +1,28 @@
+name: playdough
+favicon: null
+layout_spectrum: 0.9919085092842579
+typography_spectrum: 0.03137905313633382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9113219024147838
+  lightness: 0.03462793421931565
+  saturation: 0.48885414004325867
+  rhythmicContrast: 0.8997563028242439
+purpose: []
